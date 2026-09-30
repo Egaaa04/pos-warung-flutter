@@ -42,7 +42,7 @@ lib/
 
 1. Pastikan Flutter SDK sudah terpasang ([panduan resmi](https://docs.flutter.dev/get-started/install)).
 2. Clone repository ini:
-git clone https://github.com/USERNAME/pos-warung-flutter.git
+git clone https://github.com/Egaaa04/pos-warung-flutter.git
 cd pos-warung-flutter
 
 3. Pasang dependency:
@@ -65,8 +65,7 @@ Proyek ini masih dikembangkan sebagai portofolio pribadi. Rencana fitur berikutn
 
 ---
 
-Dibangun dengan Flutter oleh Ega.
-Ganti Egaaa04, pos-warung-flutter.
+Dibangun dengan Flutter oleh Ega. pos-warung-flutter.
 
 Soal screenshot: ini bagian penting untuk portofolio, orang yang lihat GitHub biasanya melihat gambar dulu sebelum baca teks. Ambil 3-4 screenshot dari HP (Kasir, Laporan, Pesanan), taruh di folder docs/screenshots/ di project, lalu ganti baris "tambahkan screenshot" dengan:
 
