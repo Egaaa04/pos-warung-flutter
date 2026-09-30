@@ -65,8 +65,8 @@ Proyek ini masih dikembangkan sebagai portofolio pribadi. Rencana fitur berikutn
 
 ---
 
-Dibangun dengan Flutter oleh [Nama Kamu].
-Ganti USERNAME, pos-warung-flutter, dan [Nama Kamu] sesuai kondisimu.
+Dibangun dengan Flutter oleh Ega.
+Ganti Egaaa04, pos-warung-flutter.
 
 Soal screenshot: ini bagian penting untuk portofolio, orang yang lihat GitHub biasanya melihat gambar dulu sebelum baca teks. Ambil 3-4 screenshot dari HP (Kasir, Laporan, Pesanan), taruh di folder docs/screenshots/ di project, lalu ganti baris "tambahkan screenshot" dengan:
 
