@@ -59,16 +59,6 @@ Proyek ini masih dikembangkan sebagai portofolio pribadi. Rencana fitur berikutn
 - [ ] Backup dan restore data (ekspor/impor)
 - [ ] Dashboard web untuk pemilik (opsional, terhubung ke backend)
 
-## Screenshot
-
-*(tambahkan screenshot aplikasi di sini)*
-
 ---
 
 Dibangun dengan Flutter oleh Ega. pos-warung-flutter.
-
-Soal screenshot: ini bagian penting untuk portofolio, orang yang lihat GitHub biasanya melihat gambar dulu sebelum baca teks. Ambil 3-4 screenshot dari HP (Kasir, Laporan, Pesanan), taruh di folder docs/screenshots/ di project, lalu ganti baris "tambahkan screenshot" dengan:
-
-| Kasir | Laporan | Pesanan |
-|-------|---------|---------|
-| ![Kasir](docs/screenshots/kasir.png) | ![Laporan](docs/screenshots/laporan.png) | ![Pesanan](docs/screenshots/pesanan.png) |
